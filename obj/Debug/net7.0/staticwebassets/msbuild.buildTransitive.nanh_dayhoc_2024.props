@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\nanh_dayhoc_2024.props" />
+</Project>
